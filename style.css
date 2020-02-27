@@ -1,0 +1,155 @@
+
+
+body{
+    margin: 0;
+    
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+	height: 100px;
+	
+
+}
+
+.half-width{
+	font-family: 'Poppins';
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+
+.orange-text{
+	color: orange;
+}
+
+.half-width img{
+	width: 100%;
+	margin-top: 8%;
+}
+
+.half-width h1{
+	font-size: 50px;
+}
+
+.link-button{
+	text-decoration: none;
+	background-image: linear-gradient(40deg, orange, orangered);
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+
+
+
+
+................
+
+
+
+
+.top-banner1{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+	height: 100px;
+	
+
+}
+
+.mid-width{
+	font-family: 'Poppins';
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+	margin-top: 5%;
+}
+
+
+.mid-width img{
+	width: 100%;
+	margin-top: -320%;
+}
+
+h1{
+	font-size: 50px;
+}
+
+.link-button{
+	text-decoration: none;
+	background-image: linear-gradient(40deg, orange, orangered);
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+
+
+
+
+.sp1 h2{
+	font-size: 55px;
+	padding-top: 90%;
+}
+
+
+.card{
+	box-shadow: 5px 15px 18px gray;
+	width: 40%;
+	height: 400px;
+	
+	margin-left: 6%; 
+	float: left;
+	border-left-style: solid;
+  border-left-color: blue;
+}
+.card h2{
+	padding-left: 2.5%;
+	font-size: 50px;
+}
+.card h3{
+	padding-left: 2.5%;
+	font-size: 25px;
+	color: orange;
+}
+.card p{
+	padding-left: 2.5%;
+}
+.card1{
+	box-shadow: 5px 15px 18px gray;;
+	
+	width: 40%;
+	height: 400px;
+	float: left;
+	
+	margin-left: 10%; 
+	border-left-style: solid;
+  border-left-color: red;
+}
+.card1 h2{
+	padding-left: 2.5%;
+	font-size: 50px;
+}
+.card1 h3{
+	padding-left: 2.5%;
+	font-size: 25px;
+	color: orange;
+}
+.card1 p{
+	padding-left: 2.5%;
+}
+.footer{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	margin-top: 40%;
+	
+}
+.footer p{
+	color: white;
+	padding-left: 25%;
+	padding-top: 1.5%;
+}
+
+
